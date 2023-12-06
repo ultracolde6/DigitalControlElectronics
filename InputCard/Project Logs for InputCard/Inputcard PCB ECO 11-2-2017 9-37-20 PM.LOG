@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=C2 Pin=P1-15
+Added Pin To Net: NetName=C1 Pin=P1-15
+Added Room: Name=Input

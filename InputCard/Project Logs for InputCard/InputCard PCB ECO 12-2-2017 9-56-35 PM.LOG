@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=1206
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=1206
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=1206
+Change Component Comment : Designator=R1 Old Comment= New Comment=Res
+Change Component Comment : Designator=R2 Old Comment= New Comment=Res
+Change Component Comment : Designator=R3 Old Comment= New Comment=Res
+Added Room: Name=Input

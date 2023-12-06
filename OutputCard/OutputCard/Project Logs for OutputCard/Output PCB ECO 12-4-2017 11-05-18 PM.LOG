@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Digital1 Pin=U1-11
+Removed Pin From Net: NetName=Digital2 Pin=U1-13
+Added Pin To Net: NetName=OUTPUT1 Pin=U1-11
+Added Pin To Net: NetName=OUTPUT2 Pin=U1-13
+Added Room: Name=Output

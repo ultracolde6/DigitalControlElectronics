@@ -1,0 +1,27 @@
+Change Component Comment : Designator=P2 Old Comment=DIN 41612 New Comment=HARTING 09032646824
+Change Component Comment : Designator=P3 Old Comment=Double BNC New New Comment=Winchester Interconnect 364A2595
+Change Component Description : Designator=P2 Old Description= New Description=Din 41612
+Change Component Description : Designator=P3 Old Description=BNC Elbow Connector New Description=Double BNC Elbow Connector
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=GND Pin=U9-15
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-15
+Added Pin To Net: NetName=GND Pin=U11-9
+Added Pin To Net: NetName=GND Pin=U11-15
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-15
+Added Pin To Net: NetName=GND Pin=U13-9
+Added Pin To Net: NetName=GND Pin=U13-15
+Added Pin To Net: NetName=GND Pin=U14-9
+Added Pin To Net: NetName=GND Pin=U14-15
+Added Room: Name=Input

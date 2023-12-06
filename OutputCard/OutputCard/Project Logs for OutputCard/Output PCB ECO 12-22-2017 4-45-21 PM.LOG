@@ -1,0 +1,5 @@
+Change Component Comment : Designator=HLMP-EJ30-NR0DD Old Comment=LED0 New Comment=HLMP-EJ30-NR0DD
+Change Component Designator: OldDesignator=HLMP-EJ30-NR0DD NewDesignator=D3
+Change Net Name : Old Net Name=NetHLMP-EJ30-NR0DD_1 New Net Name=NetD3_1
+Added Member To Class: ClassName=Output Member=Component D3 HLMP-EJ30-NR0DD
+Added Room: Name=Output

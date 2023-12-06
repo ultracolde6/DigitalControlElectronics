@@ -1,0 +1,15 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~OutputCard.PrjPcb|ReportField=ProjectFullPath~M:\Fermi 3\Electronics\Spliter\Version2\OutputCard\OutputCard\OutputCard.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [Output.PcbDoc]|ReportField=TotalQuantity~99|ReportField=ReportTime~2:11:10 PM|ReportField=ReportDate~1/2/2018|ReportField=ReportDateTime~1/2/2018 2:11:10 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Output.PcbDoc|ReportField=DataSourceFullPath~M:\Fermi 3\Electronics\Spliter\Version2\OutputCard\Output.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C7|C1206|Cap Semi|6|100pF, 100pF, 100nF, 100nF, 100nF, 100nF
+2|Cap Pol1|Polarized Capacitor (Radial)|C6|Captantalum|Cap Pol1|1|10uF
+3|MV5439A|Double LED|D1, D2|Double LED|Double LED|2|
+4|HLMP-EJ30-NR0DD|LED|D3, D4|LED-A|LED0|2|
+5|Zener Diode BZX79C5V6|High Conductance Fast Diode|D5, D6, D7|DO-35|Diode 1N914|3|
+6|BNC|BNC Vertical Connector|P1, P2|BNC_RA CON|BNC|2|
+7|HARTING 09031642921|DIN 41612|P3|EURO2.54-2H64-NH|Din 41612 64NH|1|
+8|Res1|Resistor|R1, R2, R5, R7|AXIAL-0.4|Res1|4|150
+9|Res1|Resistor|R1A0, R1A1, R1A2, R1A3, R1A4, R1A5, R1A6, R1A7, R1B0, R1B1, R1B2, R1B3, R1B4, R1B5, R1B6, R1B7, R1C0, R1C1, R1C2, R1C3, R1C4, R1C5, R1C6, R1C7, R1D0, R1D1, R1D2, R1D3, R1D4, R1D5, R1D6, R1D7, R2A0, R2A1, R2A2, R2A3, R2A4, R2A5, R2A6, R2A7, R2B0, R2B1, R2B2, R2B3, R2B4, R2B5, R2B6, R2B7, R2C0, R2C1, R2C2, R2C3, R2C4, R2C5, R2C6, R2C7, R2D0, R2D1, R2D2, R2D3, R2D4, R2D5, R2D6, R2D7, R3, R4, R6, R8, R11, R12|C1206|Res1|70|0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 50, 100K, 10K, 10K, 10K
+10|Res|Resistor|R9, R10|1206|Res_SM|2|750
+11|SW-DPDT-NKKB22JH|Double-Pole, Double-Throw Switch|S1, S2|NKK22|SW-DPDT-NKK|2|
+12|SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S3, S4|NKK12|SW-SPDT|2|
+13|SN74HC14N|Hex Schmitt-Trigger Inverter|U1|N014|SN74HC14N|1|
+14|AQW210S||U2|SOP8|AQW210SX|1|

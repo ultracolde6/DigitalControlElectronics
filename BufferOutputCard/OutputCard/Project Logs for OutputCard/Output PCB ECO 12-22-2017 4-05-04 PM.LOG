@@ -1,0 +1,24 @@
+Change Component Comment : Designator=U2 Old Comment=AQW210SX New Comment=AQW210S
+Change Component Comment : Designator=P3 Old Comment=DIN 41612 New Comment=HARTING 09031642921
+Change Component Comment : Designator=D1 Old Comment=Double LED New Comment=MV5439A
+Change Component Comment : Designator=D2 Old Comment=Double LED New Comment=MV5439A
+Change Component Comment : Designator=D4 Old Comment=LED0 New Comment=HLMP-EJ30-NR0DD
+Change Component Comment : Designator=S1 Old Comment=SW-DPDT-NKK New Comment=SW-DPDT-NKKB22JH
+Change Component Comment : Designator=S2 Old Comment=SW-DPDT-NKK New Comment=SW-DPDT-NKKB22JH
+Change Component Designator: OldDesignator=D3 NewDesignator=HLMP-EJ30-NR0DD
+Change Component Description : Designator=P3 Old Description= New Description=DIN 41612
+Change Component Description : Designator=D1 Old Description= New Description=Double LED
+Change Component Description : Designator=D2 Old Description= New Description=Double LED
+Change Component Description : Designator=HLMP-EJ30-NR0DD Old Description=Typical INFRARED GaAs LED New Description=LED
+Change Component Description : Designator=D4 Old Description=Typical INFRARED GaAs LED New Description=LED
+Change component parameters: Designator = "R7"; Footprint = "AXIAL-0.4"; UniqueID = "\IBAIQSRF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetHLMP-EJ30-NR0DD_1
+Added Room: Name=Output

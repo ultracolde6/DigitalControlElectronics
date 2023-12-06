@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NPFI5 Pin=P3-1
+Removed Pin From Net: NetName=NGND Pin=P3-2
+Removed Pin From Net: NetName=NGND Pin=P3-2
+Removed Pin From Net: NetName=NGND Pin=P3-2
+Removed Pin From Net: NetName=NPFI4 Pin=P4-1
+Removed Pin From Net: NetName=NGND Pin=P4-2
+Removed Pin From Net: NetName=NGND Pin=P4-2
+Removed Pin From Net: NetName=NGND Pin=P4-2
+Removed Pin From Net: NetName=NGND Pin=R38-2
+Removed Pin From Net: NetName=NGND Pin=R39-2
+Removed Pin From Net: NetName=NGND Pin=R40-2
+Removed Pin From Net: NetName=NGND Pin=R41-2
+Change Component Footprint: Designator=P4 Old Footprint=BNC_RA CON New Footprint=HDR1X5
+Change Component Comment : Designator=P3 Old Comment=BNC New Comment=Bomar Interconnect 364A2595
+Change Component Comment : Designator=P4 Old Comment=BNC New Comment=Header 5
+Added Pin To Net: NetName=NGND Pin=P3-1
+Added Pin To Net: NetName=NPFI5 Pin=P3-2
+Added Pin To Net: NetName=NPFI5 Pin=P3-2
+Added Pin To Net: NetName=NPFI5 Pin=P3-2
+Added Pin To Net: NetName=PFI0 Pin=P4-1
+Added Pin To Net: NetName=NGND Pin=P4-3
+Added Pin To Net: NetName=PFI0 Pin=R41-2
+Added Pin To Net: NetName=PFI1 Pin=P4-2
+Added Pin To Net: NetName=PFI1 Pin=R40-2
+Added Net: Name=PFI1
+Added Pin To Net: NetName=PFI2 Pin=P4-4
+Added Pin To Net: NetName=PFI2 Pin=R38-2
+Added Net: Name=PFI2
+Added Pin To Net: NetName=PFI3 Pin=P4-5
+Added Pin To Net: NetName=PFI3 Pin=R39-2
+Added Net: Name=PFI3
+Added Member To Class: ClassName=Input Member=Component P3 Bomar Interconnect 364A2595
+Added Room: Name=Input

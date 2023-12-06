@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Digital1_LED Pin=U1-10
+Removed Pin From Net: NetName=OUTPUT1 Pin=U1-11
+Removed Pin From Net: NetName=Digital2_LED Pin=U1-12
+Removed Pin From Net: NetName=OUTPUT2 Pin=U1-13
+Added Pin To Net: NetName=Digital2_LED Pin=U1-10
+Added Pin To Net: NetName=OUTPUT2 Pin=U1-11
+Added Pin To Net: NetName=Digital1_LED Pin=U1-12
+Added Pin To Net: NetName=OUTPUT1 Pin=U1-13
+Added Room: Name=Output
